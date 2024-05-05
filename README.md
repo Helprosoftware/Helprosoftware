@@ -4,7 +4,8 @@ We believe in open source and this is why we did it this way
 the code is very messy so pls don't make fun of it as it was nice of us to upload anything at all
 the website will soon be uploaded at :
 please enjoy this website as much as possible and give it the use you wish.
-Programmed with Python Django 
+Programmed with Python Django
+We will update code as much as possible so check for new updates
 
 <!---
 Helprosoftware/Helprosoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
