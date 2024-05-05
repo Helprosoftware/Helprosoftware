@@ -6,6 +6,7 @@ the website will soon be uploaded at :
 please enjoy this website as much as possible and give it the use you wish.
 Programmed with Python Django
 We will update code as much as possible so check for new updates
+-the site is not finnished yet, so you may find MANY TERRIBLE errors and loose strings on the code , don't worry or hate us for this
 
 <!---
 Helprosoftware/Helprosoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
